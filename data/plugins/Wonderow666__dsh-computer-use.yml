@@ -1,0 +1,6 @@
+url: https://github.com/Wonderow666/dsh-computer-use
+name: Wonderow666/dsh-computer-use
+category: tools
+description:
+  en: 'Native Windows desktop control: screen capture, the UI Automation tree, SendInput typing and clicks, and UIA invoke behind one `computer` tool.'
+  zh: '原生 Windows 桌面控制：截图、UIA 控件树、键盘鼠标注入与 UIA invoke，全部收在一个 computer 工具里。'
