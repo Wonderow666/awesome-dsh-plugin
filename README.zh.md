@@ -3863,6 +3863,7 @@ dsh plugin --profile web add dshmarket
 - [WODE25500/dsh-lan-share](https://github.com/WODE25500/dsh-lan-share) — 通过浏览器把 DSH 工作区分享到局域网：手机、平板、其它电脑可浏览、下载、上传文件，无需 DSH 登录。带令牌门卫、路径边界、只读模式与速率限制，零依赖(node:http)。
 - [WODE25500/dsh-public-apis](https://github.com/WODE25500/dsh-public-apis) — 把 public-apis 目录接入 DeepSeek Harness：按关键词、分类、auth、https、cors 搜索 1716 个免费公共 API 并直接调用。
 - [wodongx123/dsh-language-control](https://github.com/wodongx123/dsh-language-control) — 让 Agent 的思考过程也自动使用中文。在每步推理前向 System Prompt 最顶部注入语言约束，强制思维链、规划、工具调用推理全部使用中文，防止工具返回英文内容后发生语言漂移。支持在设置面板中实时编辑约束文本。
+- [Wonderow666/dsh-computer-use](https://github.com/Wonderow666/dsh-computer-use) — 原生 Windows 桌面控制：截图、UIA 控件树、键盘鼠标注入与 UIA invoke，全部收在一个 computer 工具里。
 - [wsk114514/dsh-ark-wiki](https://github.com/wsk114514/dsh-ark-wiki) — 查询 PRTS Wiki 的《明日方舟》干员、物品、关卡、剧情与泰拉大典世界观条目，并基于剧情卡司统计与卡池历史预测未实装角色、异格与卡池排期。
 - [wulun811/LiuHe#bundle](https://github.com/wulun811/LiuHe/tree/master/malong/dsh/bundle) — 将 LiuHe MCP 代码工具集（44 个工具）桥接进 dsh web：repo_map、符号搜索、带容错匹配的 edit_batch、带撤销日志的事务性编辑，以及确定性质量门禁——由崩溃隔离的 Rust tree-sitter 解析守护进程和 SQLite 索引支撑。
 - [Wuqiu-Ying/dsh-wtskin-project](https://github.com/Wuqiu-Ying/dsh-wtskin-project) — 战争雷霆自定义涂装插件：四点 UV 取点器、按四边形裁切的艺术图层，导出 PNG/DDS/.blk。
